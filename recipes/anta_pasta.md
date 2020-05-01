@@ -10,18 +10,18 @@ This recipe originated with my Grandmother. It has been heavily modified over th
 
 ## Ingredients
 
-* 4 stalks of celery, chopped
-* 4-10 cloves of garlic, minced
-* 1 can of black olives, drained
-* 1 can of green olives, drained (pimentos optional)
-* 1 jar of marinated artichoke hearts
-* 14 oz white, raw mushrooms, stems/pieces
-* olive oil (up to 1 cup)
-* red wine vinegar (up to 3-4 tablespoons)
-* oregano, dried, crushed (2-4 tablespoons)
-* packaged pepporoni, sliced thin (optional)
-* provolone cheese, sliced (or asiago chunked)
-* crackers
+    * 4 stalks of celery, chopped
+    * 4-10 cloves of garlic, minced
+    * 1 can of black olives, drained
+    * 1 can of green olives, drained (pimentos optional)
+    * 1 jar of marinated artichoke hearts
+    * 14 oz white, raw mushrooms, stems/pieces
+    * olive oil (up to 1 cup)
+    * red wine vinegar (up to 3-4 tablespoons)
+    * oregano, dried, crushed (2-4 tablespoons)
+    * packaged pepporoni, sliced thin (optional)
+    * provolone cheese, sliced (or asiago chunked)
+    * crackers
 
 ## Instructions
 
