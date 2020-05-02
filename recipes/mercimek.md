@@ -27,6 +27,5 @@ First, in advance prepare the following: 1 C dry green lentils (greenish brown c
 Sautee onions together with garlic and ginger in olive oli. Add carrots and cook for 5 minutes. Add potatoes and cook for 5 more minutes. Add lentils and salt, pepper, and cumin. Stir and add warm tomatoe sauce. Then cover the lentils and vegetables with the hot water. Cook for one hour on medium heat. Serve with rice pilav!
 
 reference: [https://tr.wikipedia.org/wiki/Mercimek/](https://tr.wikipedia.org/wiki/Mercimek/)  
-
 reference: [https://en.wikipedia.org/wiki/Lentil](
 https://en.wikipedia.org/wiki/Lentil)
