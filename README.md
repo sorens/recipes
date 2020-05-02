@@ -13,3 +13,4 @@ This is a collection of recipes I've borrowed, created or adapted over the years
 * :cookie: [Raspberry Square Cookie](recipes/raspberry_square_cookie.md)
 * :honey_pot: [Grandma's Struffoli](recipes/struffoli.md)
 * [Mom's Mercimek](recipes/mercimek.md)
+* :christmas_tree: :cookie: [Spritz Cookie](recipes/spritz_cookie.md)
