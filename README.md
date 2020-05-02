@@ -12,3 +12,4 @@ This is a collection of recipes I've borrowed, created or adapted over the years
 * :banana: :bread: [Banana Bread](recipes/banana_bread.md)
 * :cookie: [Raspberry Square Cookie](recipes/raspberry_square_cookie.md)
 * :honey_pot: [Grandma's Struffoli](recipes/struffoli.md)
+* [Mom's Mercimek](recipes/mercimek.md)
