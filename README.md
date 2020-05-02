@@ -7,3 +7,4 @@ This is a collection of recipes I've borrowed, created or adapted over the years
 * :doughnut: [Grandma's Zeppole](recipes/zeppole.md)
 * :pie: [Mom's Pecan Pie](recipes/peacn_pie.md)
 * :cookie: [Mom's Chocolate Chip Cookies/Bar](recipes/chocolate_chip_cookie_bar.md)
+* :shallow_pan_of_food: *[Mom's Vegetarian Lasagne](recipes/vegetarian_lasagna.md)
