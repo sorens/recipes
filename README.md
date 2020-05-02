@@ -25,3 +25,4 @@ This is a collection of recipes I've borrowed, created or adapted over the years
 * :cow2: [Beef Stew (modified JOC)](recipes/beef_stew.md)
 * :cookie: [Mom's Chocolate Cookie](recipes/chocolate_cookie.md)
 * :potato: [TJ's Pan Fried Potato](recipes/pan_friend_potatoes.md)
+* :cookie: [Chocolate Chip Cookie](recipes/chocolate_chip_cookie.md)
