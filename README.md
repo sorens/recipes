@@ -22,3 +22,4 @@ This is a collection of recipes I've borrowed, created or adapted over the years
 * :chicken: [Grandma's Chicken Soup](recipes/chicken_soup.md)
 * :tr: [Mom's Kiymali Borek](recipes/kiymali_borek.md)
 * :green_salad: [Super Slaw](recipes/super_slaw.md)
+* :cow2: [Beef Stew (modified JOC)](recipes/beef_stew.md)
