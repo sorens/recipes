@@ -14,3 +14,4 @@ This is a collection of recipes I've borrowed, created or adapted over the years
 * :honey_pot: [Grandma's Struffoli](recipes/struffoli.md)
 * [Mom's Mercimek](recipes/mercimek.md)
 * :christmas_tree: :cookie: [Spritz Cookie](recipes/spritz_cookie.md)
+* :apple: :bread: [Cinnamon Applesauce Bread](recipes/cinnamon_applesauce_bread.md)
