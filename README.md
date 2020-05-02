@@ -19,3 +19,4 @@ This is a collection of recipes I've borrowed, created or adapted over the years
 * :mushroom: [Grilled Stuffed Mushroom](recipes/grilled_stuffed_mushroom.md)
 * :cake: [Mochae Brownie Cake](recipes/mocha_brownie_cake.md)
 * :custard: [Tiramisu](recipes/tiramisu.md)
+* :chicken: [Grandma's Chicken Soup](recipes/chicken_soup.md)
