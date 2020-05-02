@@ -2,7 +2,6 @@
 
 This is a collection of recipes I've borrowed, created or adapted over the years. To make it easier to share recipes, I am postint them on Github for anyone to reference.
 
-
 * entree
     * :cow2: [Beef Stew (modified JOC)](recipes/beef_stew.md)
     * :chicken: [Grandma's Chicken Soup](recipes/chicken_soup.md)
