@@ -1,4 +1,4 @@
-# Un Kurabiyesi (White Cookies!)
+# Un Kurabiyesi (White Cookie!)
 
 ## Summary
 
