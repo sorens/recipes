@@ -4,3 +4,4 @@ This is a collection of recipes I've borrowed, created or adapted over the years
 
 * [Grandma's Ante Pasta](recipes/ante_pasta.md)
 * [Grandma's Lace Cookie](recipes/lace_cookie.md)
+* [Grandma's Zeppole](recipes/zeppole.md)
