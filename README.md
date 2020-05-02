@@ -9,3 +9,4 @@ This is a collection of recipes I've borrowed, created or adapted over the years
 * :cookie: [Mom's Chocolate Chip Cookies/Bar](recipes/chocolate_chip_cookie_bar.md)
 * :shallow_pan_of_food: [Mom's Vegetarian Lasagne](recipes/vegetarian_lasagna.md)
 * :cookie: [Mom's Un Kurabiyesi White Cookies](recipes/un_kurabiyesi_white_cookies.md)
+* :banana: :bread: [Banana Bread](recipes/banana_bread.md)
