@@ -11,3 +11,4 @@ This is a collection of recipes I've borrowed, created or adapted over the years
 * :cookie: [Mom's Un Kurabiyesi White Cookies](recipes/un_kurabiyesi_white_cookie.md)
 * :banana: :bread: [Banana Bread](recipes/banana_bread.md)
 * :cookie: [Raspberry Square Cookie](recipes/raspberry_square_cookie.md)
+* :honey_pot: [Grandma's Struffoli](recipes/struffoli.md)
