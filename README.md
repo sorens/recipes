@@ -10,4 +10,4 @@ This is a collection of recipes I've borrowed, created or adapted over the years
 * :shallow_pan_of_food: [Mom's Vegetarian Lasagne](recipes/vegetarian_lasagna.md)
 * :cookie: [Mom's Un Kurabiyesi White Cookies](recipes/un_kurabiyesi_white_cookie.md)
 * :banana: :bread: [Banana Bread](recipes/banana_bread.md)
-* :cookie: [Raspberry Square Cookie](raspberry_square_cookie.md)
+* :cookie: [Raspberry Square Cookie](recipes/raspberry_square_cookie.md)
