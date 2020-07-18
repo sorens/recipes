@@ -33,3 +33,5 @@ This is a collection of recipes I've borrowed, created or adapted over the years
     * other
         * :it: :honey_pot: [Grandma's Struffoli](recipes/struffoli.md)
         * :it: :doughnut: [Grandma's Zeppole](recipes/zeppole.md)
+* drinks
+    :whiskey: [Pencillin](recipes/pencillin.md)
