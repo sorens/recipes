@@ -19,7 +19,7 @@ This is a collection of recipes I've borrowed, created or adapted over the years
         * :apple: :bread: [Cinnamon Applesauce Bread](recipes/cinnamon_applesauce_bread.md)
     * cake & pie
         * :cake: [Mochae Brownie Cake](recipes/mocha_brownie_cake.md)
-        * :pie: [Mom's Pecan Pie](recipes/peacn_pie.md)
+        * :pie: [Mom's Pecan Pie](recipes/pecan_pie.md)
         * :custard: [Tiramisu](recipes/tiramisu.md)
     * cookie
         * :cookie: [Chocolate Chip Cookie](recipes/chocolate_chip_cookie.md)
