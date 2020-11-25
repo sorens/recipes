@@ -15,7 +15,7 @@
     * 0.25 cup melted butter
     * 1 teaspoon vanilla extract
     * 2 cup pecans, shelled & chopped
-    * 9 inch unabked pie crust (pilsbury)
+    * 9 inch unbaked pie crust (pilsbury)
 
 
 ## Instructions
