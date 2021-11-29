@@ -20,7 +20,7 @@ I have been making this recipe for almost forty years in some form or another. M
 
     * 3/4 cup brown sugar, firmly packed
     * 3/4 cup granulated sugar
-    * 1 cup of butter (unsalted, softendedx)
+    * 1 cup of butter (unsalted, softended)
     * 1/2 teaspoon double strength vanilla extract
     * 1 teaspoon almond extract (optional)
     * 2 eggs, room temperature
