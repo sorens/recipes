@@ -30,6 +30,7 @@ This is a collection of recipes I've borrowed, created or adapted over the years
         * :cookie: [Raspberry Square Cookie](recipes/raspberry_square_cookie.md)
         * :christmas_tree: :cookie: [Spritz Cookie](recipes/spritz_cookie.md)
         * :tr: :cookie: [Mom's Un Kurabiyesi White Cookies](recipes/un_kurabiyesi_white_cookie.md)
+        * :cookie: [Molasses Cookie](recipes/cookie_molasses.md)
     * other
         * :it: :honey_pot: [Grandma's Struffoli](recipes/struffoli.md)
         * :it: :doughnut: [Grandma's Zeppole](recipes/zeppole.md)
