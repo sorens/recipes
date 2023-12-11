@@ -22,7 +22,7 @@ This recipe comes to us originally from a co-worker's mom (Thanks Pete's Mom!). 
 
 ### Wet Ingredients
 
-    * 1/42 cup molasses
+    * 1/2 cup molasses
     * 2 cups granulated sugar
     * 1 1/2 cups of coconut oil
     * 1/2 teaspoon double strength vanilla extract
